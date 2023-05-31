@@ -1,0 +1,4 @@
+start implementing a new feature
+work on the cool feature
+refactor the cool feature
+finish working on the cool feature
